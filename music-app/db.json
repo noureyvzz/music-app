@@ -1,0 +1,183 @@
+{
+  "music": [
+    {
+      "id": "4",
+      "title": "Rock Anthems",
+      "developerId": 4,
+      "artistName": "Rock Legends",
+      "genre": "Rock",
+      "releaseYear": 2018,
+      "platform": "Spotify",
+      "rating": 4.6,
+      "price": 7,
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain",
+      "nationality": "UK",
+      "age": 43
+    },
+    {
+      "id": "5",
+      "title": "Pop Hits Forever",
+      "artistName": "Bob",
+      "nationality": "USA",
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "6",
+      "title": "Jazz Vibes",
+      "artistName": "John",
+      "nationality": "USA",
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7",
+      "title": "Country Roads",
+      "artistName": "Ally",
+      "nationality": "Canada",
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "9",
+      "title": "Latin Rhythms",
+      "developerId": 7,
+      "artistName": "Latin Beats Studio",
+      "genre": "Latin",
+      "releaseYear": 2021,
+      "platform": "Deezer",
+      "rating": 4.8,
+      "price": 5,
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": "11",
+      "title": "Reggae Fusion",
+      "developerId": 9,
+      "artistName": "Reggae Roots",
+      "genre": "Reggae",
+      "releaseYear": 2016,
+      "platform": "Apple Music",
+      "rating": 4.2,
+      "price": 3,
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain",
+      "nationality": "Jamaica",
+      "age": 39
+    },
+    {
+      "id": "12",
+      "title": "Blues Legends",
+      "developerId": 10,
+      "artistName": "Blues Masters",
+      "genre": "Blues",
+      "releaseYear": 2014,
+      "platform": "Tidal",
+      "rating": 4.5,
+      "price": 6,
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain",
+      "nationality": "USA",
+      "age": 50
+    },
+    {
+      "id": "4aa6",
+      "title": "Hadid",
+      "artistName": "Bella",
+      "nationality": "USA",
+      "coverArt": "https://th.bing.com/th/id/OIP.8GWrDXrBXftbNSrxDgKQ2wHaHa?rs=1&pid=ImgDetMain",
+      "age": 23
+    }
+  ],
+  "developers": [
+    {
+      "id": "1",
+      "name": "Classical Studios",
+      "country": "Germany",
+      "notableTitles": [
+        "The Last Melody"
+      ],
+      "foundingYear": 1990
+    },
+    {
+      "id": "2",
+      "name": "Pop Beats Inc.",
+      "country": "USA",
+      "notableTitles": [
+        "Hip-Hop Revolution",
+        "Pop Hits Forever"
+      ],
+      "foundingYear": 2005
+    },
+    {
+      "id": "3",
+      "name": "Electronic Pulse",
+      "country": "France",
+      "notableTitles": [
+        "Synth Dreams"
+      ],
+      "foundingYear": 2010
+    },
+    {
+      "id": "4",
+      "name": "Rock Legends",
+      "country": "UK",
+      "notableTitles": [
+        "Rock Anthems"
+      ],
+      "foundingYear": 1980
+    },
+    {
+      "id": "5",
+      "name": "Smooth Jazz Collective",
+      "country": "USA",
+      "notableTitles": [
+        "Jazz Vibes",
+        "Soulful Nights"
+      ],
+      "foundingYear": 1995
+    },
+    {
+      "id": "6",
+      "name": "Country Tunes Co.",
+      "country": "Canada",
+      "notableTitles": [
+        "Country Roads"
+      ],
+      "foundingYear": 2000
+    },
+    {
+      "id": "7",
+      "name": "Latin Beats Studio",
+      "country": "Brazil",
+      "notableTitles": [
+        "Latin Rhythms"
+      ],
+      "foundingYear": 2012
+    },
+    {
+      "id": "8",
+      "name": "Indie Waves",
+      "country": "Australia",
+      "notableTitles": [
+        "Indie Spirit"
+      ],
+      "foundingYear": 2008
+    },
+    {
+      "id": "9",
+      "name": "Reggae Roots",
+      "country": "Jamaica",
+      "notableTitles": [
+        "Reggae Fusion"
+      ],
+      "foundingYear": 1975
+    },
+    {
+      "id": "10",
+      "name": "Blues Masters",
+      "country": "USA",
+      "notableTitles": [
+        "Blues Legends"
+      ],
+      "foundingYear": 1985
+    }
+  ]
+}

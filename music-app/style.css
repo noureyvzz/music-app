@@ -1,0 +1,50 @@
+ body {
+   background-color: black;
+   color: #fff;
+ }
+
+ .navbar {
+   background-color: #1c1c1c;
+ }
+
+ .card {
+   background-color: #1c1c1c;
+   border: none;
+   border-radius: 10px;
+   overflow: hidden;
+ }
+
+ .card img {
+   height: 200px;
+   object-fit: cover;
+ }
+
+ .card-body {
+   text-align: center;
+ }
+
+ .filter-bar input,
+ .filter-bar select {
+   background-color: #1c1c1c;
+   color: #fff;
+   border: 1px solid #444;
+ }
+
+ .btn-primary {
+   background-color: #1db954;
+   border: none;
+ }
+
+ .btn-danger {
+   background-color: red;
+ }
+
+ .btn-edit {
+   background-color: #ffc107;
+   border: none;
+ }
+
+ .btn-success {
+   background-color: #1db954;
+   border: none;
+ }

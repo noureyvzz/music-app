@@ -1,0 +1,26 @@
+body {
+    background-color: #121212;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #1c1c1c;
+}
+
+.form-container {
+    background-color: #1c1c1c;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.form-control {
+    background-color: #1c1c1c;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+.btn-primary {
+    background-color: #1db954;
+    border: none;
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music App - Edit Singer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.5.0/dist/sweetalert2.min.css" rel="stylesheet" />
+</head>
+
+<body class="bg-dark text-white">
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Edit Singer</h2>
+        <form id="edit-form">
+            <input type="hidden" id="singer-id" />
+            <div class="mb-3">
+                <label for="title" class="form-label">Artist Title</label>
+                <input type="text" id="title" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label for="artist-name" class="form-label">Artist Name</label>
+                <input type="text" id="artist-name" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label for="nationality" class="form-label">Country</label>
+                <input type="text" id="nationality" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label for="cover-art" class="form-label">Cover Art URL</label>
+                <input type="text" id="cover-art" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-success w-100">Update</button>
+            </div>
+        </form>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.5.0/dist/sweetalert2.all.min.js"></script>
+    <script src="./edit.js">
+    </script>
+</body>
+
+</html>
